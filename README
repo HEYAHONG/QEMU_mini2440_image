@@ -1,5 +1,0 @@
-1.sdcard.img*是用split分割制成，解压之前需合并。所有文件在使用之前需要用
-lzma -d lzma文件
-解压所有文件，解压后应有sdcard.img,nand.bin,u-boot.bin,start.sh四个文件。
-
-2.运行start.sh之前，需要安装好支持mini2440的qemu。
