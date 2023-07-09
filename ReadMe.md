@@ -25,6 +25,8 @@ lzma -d -k sdcard.bin.lzma
 
 注意:要使用此镜像测试,需要先编译安装支持mini2440的qemu。具体支持与否可通过qemu-system-arm -M ?查询支持的machine是否有mini2440.
 
-# 测试
+# 测试截图
 
 测试操作系统环境:ubuntu14.04
+
+![debian](debian.png)
